@@ -3,6 +3,9 @@
 An AI-powered movie recommendation system that understands natural language and recommends movies using **Hybrid Retrieval (FAISS + BM25)**. The application combines semantic search, keyword search, AI-powered explanations, and live movie metadata to help users quickly discover movies that match their preferences.
 
 ---
+## 🌐 Live Demo
+
+👉 https://ai-movie-recommender-dgxe5gwmo6tdvtxsdmpbwt.streamlit.app/
 
 ## 📌 Problem Statement
 
