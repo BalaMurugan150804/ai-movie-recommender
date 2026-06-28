@@ -133,7 +133,7 @@ streamlit run app.py
 
 🤖 AI Explanation
 
-![alt text](ai_explanation.png-1.png)
+![alt text](ai_explanation.png.png)
 ---
 
 ## 🔮 Future Improvements
