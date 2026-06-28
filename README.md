@@ -123,13 +123,17 @@ streamlit run app.py
 
 ## 📷 Screenshots
 
-> Add screenshots of the application here.
+>🏠 Home Page
 
-* Home Page
-* Recommendation Cards
-* AI Explanation
-* Movie Posters
+![alt text](home.png.png)
 
+🎬 Movie Recommendations
+
+![alt text](recommendations.png.png)
+
+🤖 AI Explanation
+
+![alt text](ai_explanation.png-1.png)
 ---
 
 ## 🔮 Future Improvements
